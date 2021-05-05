@@ -1,3 +1,9 @@
+# usage 
+```
+./ba_example ../data/1.png ../data/2.png
+pcl_viewer pts.pcd  
+```
+
 # g2o_ba_example
 An easy example of doing bundle adjustment within two images using g2o. 
 
