@@ -6,6 +6,14 @@
 pcl_viewer pts.pcd  
 ```
 
+# kitti data example
+```
+wget https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data/2011_09_26_drive_0001/2011_09_26_drive_0001_sync.zip
+unzip 2011_09_26_drive_0001_sync.zip
+./tkSFM 2011_09_26/2011_09_26_drive_0001_sync
+```
+
+
 # g2o_ba_example
 An easy example of doing bundle adjustment within two images using g2o. 
 
