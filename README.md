@@ -1,3 +1,5 @@
+# based on https://github.com/gaoxiang12/g2o_ba_example
+
 # usage 
 ```
 ./ba_example ../data/1.png ../data/2.png
